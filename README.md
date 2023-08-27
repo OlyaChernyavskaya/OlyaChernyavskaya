@@ -3,23 +3,22 @@
 ---
 
 ## 📞 Contact Information
-- **Phone:** `[Your Phone Number]`
-- **Email:** `[Your Email Address]`
-- **LinkedIn:** `[Your LinkedIn Profile URL]`
-- **Address:** `[Your Residential Address]`
+- **Phone:** `[+38268233722]`
+- **Email:** `[play.market.olyache@gmail.com]`
+- **LinkedIn:** `[https://www.linkedin.com/in/olga-chernyavskaya-3a5bb0269]`
 
 ---
 
 ## 🎯 Objective
-A proficient software testing professional with comprehensive training in various testing methodologies and tools. Seeking a challenging role to utilize my acquired skills and contribute to software quality assurance.
+Equipped with software testing expertise and hands-on training, I'm poised to uphold the highest quality standards and optimize the testing cycle for seamless software delivery.
 
 ---
 
 ## 🎓 Education
 - **Functional Software Testing Course**  
-  Duration: `[Start Month & Year] - [End Month & Year]`  
-  **Modules Completed:** 74/104  
-  **Total Hours:** Over 30 hours of lectures
+  Duration: `[June 2023] - [September 2023]`  
+  **Modules Completed:** 104/104  
+  **Total Hours of practical tasks:** Over 30 hours of lectures
 
 ---
 
@@ -28,7 +27,6 @@ A proficient software testing professional with comprehensive training in variou
 1. **Organizational Issues:**  
    - Beginning of Training Orientation
    - Copyright Awareness
-   - Preparing for Interviews (FAQs)
 
 2. **Testing Theory:**  
    - QA, QC & Testing
