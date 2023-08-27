@@ -2,10 +2,10 @@
 
 ---
 
-## 📞 Contact Information
-- **Phone:** `[+38268233722]`
-- **Email:** `[play.market.olyache@gmail.com]`
-- **LinkedIn:** `[https://www.linkedin.com/in/olga-chernyavskaya-3a5bb0269]`
+### 📞 Contact Information
+- **Phone**: [+38268233722](tel:+38268233722)
+- **Email**: [play.market.olyache@gmail.com](mailto:play.market.olyache@gmail.com)
+- **LinkedIn**: [Olga Chernyavskaya](https://www.linkedin.com/in/olga-chernyavskaya-3a5bb0269)
 
 ---
 
