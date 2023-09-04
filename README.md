@@ -24,19 +24,19 @@ Equipped with software testing expertise and hands-on training, I'm poised to up
 
 ## Testing Artefacts 
 
- **Web Application Testing:**  
+**Web Application Testing**  
 
- **API Testing with Postman**  
+**API Testing with Postman**  
    
- **MongoDB **  
+**MongoDB**  
  
- **SQL **    
+**SQL**    
      
-**Mobile Application Testing:**  
+**Mobile Application Testing**  
  
-  **Bash ** 
+**Bash** 
   
-  **Git **   
+**Git**   
 
 ---
 
