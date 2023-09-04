@@ -17,26 +17,24 @@ Equipped with software testing expertise and hands-on training, I'm poised to up
 ## 🎓 Education
 - **Functional Software Testing Course**  
   Duration: `[June 2023] - [September 2023]`  
-  **Modules Completed:** 104/104  
-  **Total Hours of practical tasks:** Over 30 hours of lectures
 
 ---
 
 ## 🧪️ Testing Artefacts 
 
-- [**Web Application Testing**]()  
+- [**Web Application Testing**](https://github.com/OlyaChernyavskaya/web-testing.git)  
 
-- **API Testing with Postman**  
+- [**API Testing with Postman**]()  
    
-- **MongoDB**  
+- [**MongoDB**]()  
  
-- **SQL**    
+- [**SQL**]()    
      
-- **Mobile Application Testing**  
+- [**Mobile Application Testing**]()  
  
-- **Bash** 
+- [**Bash**]() 
   
-- **Git**   
+- [**Git**]()   
 
 ---
 
