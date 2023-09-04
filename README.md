@@ -28,7 +28,7 @@ Equipped with software testing expertise and hands-on training, I'm poised to up
    
 - [**MongoDB**](https://github.com/OlyaChernyavskaya/mongodb.git)  
  
-- [**SQL**]()    
+- [**SQL**](https://github.com/OlyaChernyavskaya/sql.git)    
      
 - [**Mobile Application Testing**]()  
  
