@@ -30,7 +30,7 @@ Equipped with software testing expertise and hands-on training, I'm poised to up
  
 - [**SQL**](https://github.com/OlyaChernyavskaya/sql.git)    
      
-- [**Mobile Application Testing**]()  
+- [**Mobile Application Testing**](https://github.com/OlyaChernyavskaya/mobile-testing.git)  
  
 - [**Bash**]() 
   
