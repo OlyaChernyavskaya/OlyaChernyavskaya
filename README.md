@@ -22,7 +22,7 @@ Equipped with software testing expertise and hands-on training, I'm poised to up
 
 ---
 
-## Testing Artefacts 
+## <a href="https://www.flaticon.com/free-icons/planner" title="planner icons">Planner icons created by Freepik - Flaticon</a> Testing Artefacts 
 
 - **Web Application Testing**  
 
