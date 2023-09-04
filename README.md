@@ -34,7 +34,7 @@ Equipped with software testing expertise and hands-on training, I'm poised to up
  
 - [**Bash**](https://github.com/OlyaChernyavskaya/bash.git) 
   
-- [**Git**]()   
+- [**Git**](https://github.com/OlyaChernyavskaya/git.git)   
 
 ---
 
