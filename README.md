@@ -24,7 +24,7 @@ Equipped with software testing expertise and hands-on training, I'm poised to up
 
 - [**Web Application Testing**](https://github.com/OlyaChernyavskaya/web-testing.git)  
 
-- [**API Testing with Postman**]()  
+- [**API Testing with Postman**](https://github.com/OlyaChernyavskaya/api-testing.git)  
    
 - [**MongoDB**]()  
  
