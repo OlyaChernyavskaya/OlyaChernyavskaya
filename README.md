@@ -32,7 +32,7 @@ Equipped with software testing expertise and hands-on training, I'm poised to up
      
 - [**Mobile Application Testing**](https://github.com/OlyaChernyavskaya/mobile-testing.git)  
  
-- [**Bash**]() 
+- [**Bash**](https://github.com/OlyaChernyavskaya/bash.git) 
   
 - [**Git**]()   
 
