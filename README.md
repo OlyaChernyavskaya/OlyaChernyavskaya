@@ -64,5 +64,5 @@ Equipped with software testing expertise and hands-on training, I'm poised to up
 
 ---
 
-## 🔗 References
-Available upon request.
+## [My CV]()
+
