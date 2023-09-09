@@ -64,5 +64,5 @@ Equipped with software testing expertise and hands-on training, I'm poised to up
 
 ---
 
-## [My CV]()
+## [My CV](https://github.com/OlyaChernyavskaya/My_CV)
 
