@@ -1,4 +1,4 @@
-# Olya Chernyavskaya - Junior QA Engineer Portfolio
+# Olya Chernyavskaya - QA Engineer Portfolio
 
 ---
 
