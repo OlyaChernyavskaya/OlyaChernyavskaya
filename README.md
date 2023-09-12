@@ -15,8 +15,8 @@ Equipped with software testing expertise and hands-on training, I'm poised to up
 ---
 
 ## 🎓 Education
-- **Functional Software Testing Course**  
-  Duration: `[June 2023] - [September 2023]`  
+- [**Functional Software Testing Course**](https://v2.coreapp.ai/certificate/pdf/64fdb609c62256cf8b2d81f0)  
+  Duration: June 2023 - September 2023  
 
 ---
 
